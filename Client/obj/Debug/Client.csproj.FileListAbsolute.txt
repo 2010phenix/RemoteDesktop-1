@@ -1,0 +1,18 @@
+c:\users\heckur\documents\visual studio 2015\Projects\RemoteDesktop\Client\bin\Debug\Client.exe.config
+c:\users\heckur\documents\visual studio 2015\Projects\RemoteDesktop\Client\bin\Debug\Client.exe
+c:\users\heckur\documents\visual studio 2015\Projects\RemoteDesktop\Client\bin\Debug\Client.pdb
+c:\users\heckur\documents\visual studio 2015\Projects\RemoteDesktop\Client\obj\Debug\Client.MainForm.resources
+c:\users\heckur\documents\visual studio 2015\Projects\RemoteDesktop\Client\obj\Debug\Client.Properties.Resources.resources
+c:\users\heckur\documents\visual studio 2015\Projects\RemoteDesktop\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+c:\users\heckur\documents\visual studio 2015\Projects\RemoteDesktop\Client\obj\Debug\Client.exe
+c:\users\heckur\documents\visual studio 2015\Projects\RemoteDesktop\Client\obj\Debug\Client.pdb
+c:\users\heckur\documents\visual studio 2015\Projects\RemoteDesktop\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Heckur\Documents\Visual Studio 2015\Projects\RemoteDesktop (OMG I GOT IT WORKING)\Client\bin\Debug\Client.exe.config
+C:\Users\Heckur\Documents\Visual Studio 2015\Projects\RemoteDesktop (OMG I GOT IT WORKING)\Client\bin\Debug\Client.exe
+C:\Users\Heckur\Documents\Visual Studio 2015\Projects\RemoteDesktop (OMG I GOT IT WORKING)\Client\bin\Debug\Client.pdb
+C:\Users\Heckur\Documents\Visual Studio 2015\Projects\RemoteDesktop (OMG I GOT IT WORKING)\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Heckur\Documents\Visual Studio 2015\Projects\RemoteDesktop (OMG I GOT IT WORKING)\Client\obj\Debug\Client.MainForm.resources
+C:\Users\Heckur\Documents\Visual Studio 2015\Projects\RemoteDesktop (OMG I GOT IT WORKING)\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Heckur\Documents\Visual Studio 2015\Projects\RemoteDesktop (OMG I GOT IT WORKING)\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Heckur\Documents\Visual Studio 2015\Projects\RemoteDesktop (OMG I GOT IT WORKING)\Client\obj\Debug\Client.exe
+C:\Users\Heckur\Documents\Visual Studio 2015\Projects\RemoteDesktop (OMG I GOT IT WORKING)\Client\obj\Debug\Client.pdb

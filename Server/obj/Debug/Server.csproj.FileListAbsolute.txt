@@ -1,0 +1,20 @@
+c:\users\heckur\documents\visual studio 2015\Projects\RemoteDesktop\Server\bin\Debug\Server.exe.config
+c:\users\heckur\documents\visual studio 2015\Projects\RemoteDesktop\Server\bin\Debug\Server.exe
+c:\users\heckur\documents\visual studio 2015\Projects\RemoteDesktop\Server\bin\Debug\Server.pdb
+c:\users\heckur\documents\visual studio 2015\Projects\RemoteDesktop\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+c:\users\heckur\documents\visual studio 2015\Projects\RemoteDesktop\Server\obj\Debug\Server.MainForm.resources
+c:\users\heckur\documents\visual studio 2015\Projects\RemoteDesktop\Server\obj\Debug\Server.Properties.Resources.resources
+c:\users\heckur\documents\visual studio 2015\Projects\RemoteDesktop\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+c:\users\heckur\documents\visual studio 2015\Projects\RemoteDesktop\Server\obj\Debug\Server.exe
+c:\users\heckur\documents\visual studio 2015\Projects\RemoteDesktop\Server\obj\Debug\Server.pdb
+c:\users\heckur\documents\visual studio 2015\Projects\RemoteDesktop\Server\obj\Debug\Server.RemoteDesktopFrm.resources
+C:\Users\Heckur\Documents\Visual Studio 2015\Projects\RemoteDesktop (OMG I GOT IT WORKING)\Server\bin\Debug\Server.exe.config
+C:\Users\Heckur\Documents\Visual Studio 2015\Projects\RemoteDesktop (OMG I GOT IT WORKING)\Server\obj\Debug\Server.exe
+C:\Users\Heckur\Documents\Visual Studio 2015\Projects\RemoteDesktop (OMG I GOT IT WORKING)\Server\obj\Debug\Server.pdb
+C:\Users\Heckur\Documents\Visual Studio 2015\Projects\RemoteDesktop (OMG I GOT IT WORKING)\Server\bin\Debug\Server.exe
+C:\Users\Heckur\Documents\Visual Studio 2015\Projects\RemoteDesktop (OMG I GOT IT WORKING)\Server\bin\Debug\Server.pdb
+C:\Users\Heckur\Documents\Visual Studio 2015\Projects\RemoteDesktop (OMG I GOT IT WORKING)\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Heckur\Documents\Visual Studio 2015\Projects\RemoteDesktop (OMG I GOT IT WORKING)\Server\obj\Debug\Server.MainForm.resources
+C:\Users\Heckur\Documents\Visual Studio 2015\Projects\RemoteDesktop (OMG I GOT IT WORKING)\Server\obj\Debug\Server.RemoteDesktopFrm.resources
+C:\Users\Heckur\Documents\Visual Studio 2015\Projects\RemoteDesktop (OMG I GOT IT WORKING)\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Heckur\Documents\Visual Studio 2015\Projects\RemoteDesktop (OMG I GOT IT WORKING)\Server\obj\Debug\Server.csproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+C:\Users\Heckur\Documents\Visual Studio 2015\Projects\RemoteDesktop (OMG I GOT IT WORKING)\Server\bin\Release\Server.exe.config
+C:\Users\Heckur\Documents\Visual Studio 2015\Projects\RemoteDesktop (OMG I GOT IT WORKING)\Server\bin\Release\Server.exe
+C:\Users\Heckur\Documents\Visual Studio 2015\Projects\RemoteDesktop (OMG I GOT IT WORKING)\Server\bin\Release\Server.pdb
+C:\Users\Heckur\Documents\Visual Studio 2015\Projects\RemoteDesktop (OMG I GOT IT WORKING)\Server\obj\Release\Server.MainForm.resources
+C:\Users\Heckur\Documents\Visual Studio 2015\Projects\RemoteDesktop (OMG I GOT IT WORKING)\Server\obj\Release\Server.RemoteDesktopFrm.resources
+C:\Users\Heckur\Documents\Visual Studio 2015\Projects\RemoteDesktop (OMG I GOT IT WORKING)\Server\obj\Release\Server.Properties.Resources.resources
+C:\Users\Heckur\Documents\Visual Studio 2015\Projects\RemoteDesktop (OMG I GOT IT WORKING)\Server\obj\Release\Server.csproj.GenerateResource.Cache
+C:\Users\Heckur\Documents\Visual Studio 2015\Projects\RemoteDesktop (OMG I GOT IT WORKING)\Server\obj\Release\Server.exe
+C:\Users\Heckur\Documents\Visual Studio 2015\Projects\RemoteDesktop (OMG I GOT IT WORKING)\Server\obj\Release\Server.pdb

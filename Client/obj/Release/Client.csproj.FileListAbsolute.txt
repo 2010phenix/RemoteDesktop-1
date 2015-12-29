@@ -1,0 +1,9 @@
+C:\Users\Heckur\Documents\Visual Studio 2015\Projects\RemoteDesktop (OMG I GOT IT WORKING)\Client\bin\Release\Client.exe.config
+C:\Users\Heckur\Documents\Visual Studio 2015\Projects\RemoteDesktop (OMG I GOT IT WORKING)\Client\bin\Release\Client.exe
+C:\Users\Heckur\Documents\Visual Studio 2015\Projects\RemoteDesktop (OMG I GOT IT WORKING)\Client\bin\Release\Client.pdb
+C:\Users\Heckur\Documents\Visual Studio 2015\Projects\RemoteDesktop (OMG I GOT IT WORKING)\Client\obj\Release\Client.csprojResolveAssemblyReference.cache
+C:\Users\Heckur\Documents\Visual Studio 2015\Projects\RemoteDesktop (OMG I GOT IT WORKING)\Client\obj\Release\Client.MainForm.resources
+C:\Users\Heckur\Documents\Visual Studio 2015\Projects\RemoteDesktop (OMG I GOT IT WORKING)\Client\obj\Release\Client.Properties.Resources.resources
+C:\Users\Heckur\Documents\Visual Studio 2015\Projects\RemoteDesktop (OMG I GOT IT WORKING)\Client\obj\Release\Client.csproj.GenerateResource.Cache
+C:\Users\Heckur\Documents\Visual Studio 2015\Projects\RemoteDesktop (OMG I GOT IT WORKING)\Client\obj\Release\Client.exe
+C:\Users\Heckur\Documents\Visual Studio 2015\Projects\RemoteDesktop (OMG I GOT IT WORKING)\Client\obj\Release\Client.pdb
